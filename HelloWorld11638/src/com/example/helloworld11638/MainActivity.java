@@ -52,6 +52,8 @@ public class MainActivity extends ActionBarActivity {
     boolean checkIfPressed = true;
     public void PressMe_Onclick(View v)
     {    	
+    	
+    	//test
     	if(checkIfPressed) {
     		//View View = mInflater.inflate(R.layout.gridelement, null);
 
